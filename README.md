@@ -1,6 +1,6 @@
 ## Blobstore Sample
 
-This is a sample app for Google App Engine that excercises the [blobstore Python API](https://cloud.google.com/appengine/docs/python/blobstore/).
+This is a sample app for Google App Engine that exercises the [blobstore Python API](https://cloud.google.com/appengine/docs/python/blobstore/).
 
 See our other [Google Cloud Platform github
 repos](https://github.com/GoogleCloudPlatform) for sample applications and
