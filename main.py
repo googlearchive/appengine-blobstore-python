@@ -53,7 +53,7 @@ class PhotoUploadHandler(blobstore_handlers.BlobstoreUploadHandler):
             self.redirect('/view_photo/%s' % upload.key())
 
         except:
-            self.redirect('/upload_failure .html')
+            self.redirect('/upload_failure.html')
 # [END upload_handler]
 
 # [START download_handler]
