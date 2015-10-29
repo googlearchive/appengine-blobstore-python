@@ -25,7 +25,7 @@ scaffolding for other python frameworks and use cases.
 1. Run this project locally from the command line.
 
    ```
-   gcloud preview app run appengine-blobstore-python/
+   dev_appserver.py appengine-blobstore-python
    ```
 
 1. Visit the application at [http://localhost:8080](http://localhost:8080).
@@ -42,7 +42,7 @@ scaffolding for other python frameworks and use cases.
 1. Use gcloud to deploy your app.
 
    ```
-   gcloud preview app deploy appengine-blobstore-python/
+   gcloud preview app deploy appengine-blobstore-python/app.yaml
    ```
 
 1. Congratulations!  Your application is now live at your-app-id.appspot.com
