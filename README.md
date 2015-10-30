@@ -1,3 +1,7 @@
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This sample has been moved to [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/appengine/blobstore).
+
 ## Blobstore Sample
 
 This is a sample app for Google App Engine that exercises the [blobstore Python API](https://cloud.google.com/appengine/docs/python/blobstore/).
